@@ -1,26 +1,30 @@
-# Hi, I'm Erez 👋
+# Hi, I'm Erez Barazani 👋
 
-I build practical, reliable systems at the intersection of **AI, automation, cloud, and IT operations**.
+**Global IT Operations Leader at NICE** with 13+ years of experience across IT strategy, operations, cloud, and automation.
 
-## What I work on
+I build practical systems at the intersection of **AI, automation, cloud, DevOps, and reliable IT operations**.
 
-- **AI & automation** — building useful workflows, agents, dashboards, and integrations that solve real operational problems.
-- **Cloud & DevOps** — deploying and operating services with Docker, GitHub Actions, CI/CD, observability, and infrastructure automation.
-- **Home & media infrastructure** — Home Assistant, Zigbee, NAS storage, Plex, and self-hosted services.
-- **Security-minded engineering** — learning continuously and designing systems with sensible access controls, backups, monitoring, and recoverability in mind.
+[LinkedIn](https://www.linkedin.com/in/erezbarazani)
 
-## Current focus
+## Focus areas
 
-- Turning AI ideas into production-ready tools
-- Reliable automations and self-healing operations
-- Cloud-native projects on cost-conscious infrastructure
-- Open-source projects that are useful, simple, and maintainable
+- **AI & automation** — useful agents, workflows, dashboards, and integrations for real operational work.
+- **Cloud & DevOps** — Docker, GitHub Actions, CI/CD, observability, and infrastructure automation.
+- **Self-hosted infrastructure** — Home Assistant, Zigbee, NAS storage, Plex, and resilient home services.
+- **Security-minded engineering** — sensible access controls, monitoring, backup, and recoverability.
+
+## Featured work
+
+| Project | What it does |
+| --- | --- |
+| **KYVAR / AIOps** *(private)* | Autonomous IT operations platform and production automation work. |
+| [KYVAR Demo](https://github.com/erez1980/Kyvar-Demo) | Public product demonstration for autonomous IT workflows. |
+| [Elib Law Modern](https://github.com/erez1980/elib-law-modern) | Modern Astro-based web project with an active delivery history. |
+| [Midnight Luxe Pilates](https://github.com/erez1980/midnight-luxe-pilates) | TypeScript web experience with an active PR-driven development history. |
 
 ## Technologies
 
-`Python` · `JavaScript` · `Docker` · `GitHub Actions` · `Linux` · `Cloud` · `Home Assistant` · `APIs` · `CI/CD`
-
-## Collaboration
+`Python` · `JavaScript` · `TypeScript` · `Docker` · `GitHub Actions` · `Linux` · `Cloud` · `Home Assistant` · `APIs` · `CI/CD`
 
 I enjoy collaborating on thoughtful automation, AI, infrastructure, and developer-tooling projects.
 
